@@ -21,5 +21,5 @@ Calculator-Library, return simple mathematical operations.
 
 
 There are two JAVASCRIPT files:
-1. Calculatur v2.2 - The library.
-2. appCalculatur - examples of use.
+ * Calculatur v2.2 - The library.
+ * appCalculatur - examples of use.
