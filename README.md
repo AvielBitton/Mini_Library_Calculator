@@ -1,7 +1,7 @@
 # Mini_Library_Calculator
 Calculator-Library, return simple mathematical operations.
 
- * --------------------
+  --------------------
  * When given a first number and a second number,
  * it return simple mathematical operations
  * of the calculation between them.
@@ -14,13 +14,13 @@ Calculator-Library, return simple mathematical operations.
  * 10 / 5 = (2)
  * (2) * 3 = 6
  * = 6
- * --------------------
+  --------------------
  * reusable library
- * --------------------
+  --------------------
  * The library does not perform in the order of arithmetic operations but in chronological order
- * --------------------
+  --------------------
  * Eesy to type '$Calc()' structure
- * --------------------
+  --------------------
 
 
 There are two JAVASCRIPT files:
