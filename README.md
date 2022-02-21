@@ -1,7 +1,6 @@
 # Mini_Library_Calculator
 Calculator-Library, return simple mathematical operations.
 
- *Calculator-Library
  * --------------------
  * When given a first number and a second number,
  * it return simple mathematical operations
