@@ -3,9 +3,9 @@ Calculator-Library, return simple mathematical operations.
 
   --------------------
  * When given a first number and a second number, it return simple mathematical operations
-   of the calculation between them.
-   Then, You can chain with further actions,
-   like this example (Methods Chain)
+ * of the calculation between them.
+ * Then, You can chain with further actions,
+ * like this example (Methods Chain)
  * var c = $Calc()
  * console.log(c.getDivision(10,5).getMultiplication(3));
  * 10 / 5 = (2)
